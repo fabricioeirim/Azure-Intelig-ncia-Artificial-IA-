@@ -1,0 +1,4 @@
+Trabalho de analise de sentimentos realizado no Languase Studio na Azure.
+-  A solução tokeniza o texto em frases chaves, e depois as frases em palavras chaves.
+O exemplo trazido foi em portugues, sobre avaliação de um hotel fazenda na cidade do Rio de Janeiro.
+Algo que está me fazendo pensar é, se a solução análise frase a frase e gera um score por frase, como ter um score geral?
