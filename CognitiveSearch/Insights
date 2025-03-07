@@ -1,0 +1,6 @@
+Confoguração para consultas de inteligencia de documentos na Azure.
+1) configurado o serviço de Pesquisa de IA - nde inserimos nossa conta, o grupo e indicamos o nivel de serviço.
+2) configuramos o CognitiveServices para gerar a inteligencia na busca das informações contidas nos documentos.
+3) Criamos uma conta de armazenamento com tipo BLOB para armazenar dados (documentos) em um container.
+4) Inserimos os documentos no container configurado, e conectamos os dados ao serviço de busca para conseguirmos realizar consultas com palavras chave nesses documentos.
+é uma grande alternativa aos modos tradicionais de armazenamento de documentos.
