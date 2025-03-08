@@ -1,0 +1,24 @@
+# Projeto de Reconhecimento de Texto
+
+## Visão Geral
+Este projeto realiza o reconhecimento de texto em imagens utilizando o copilot.
+
+## Estrutura do Projeto
+- `imagens`: Contém as imagens para reconhecimento de texto.
+- `output`: Armazena os resultados do reconhecimento de texto.
+
+## Passos para Executar o Projeto
+
+1.Inserir as imagesn no copilot.
+2. Coloque as imagens na pasta `imagens`.
+3. Execute o prompt.
+4. Os resultados serão salvos na pasta `output`.
+
+## Insights e Possibilidades
+Durante o desenvolvimento deste projeto, aprendi que:
+- A qualidade da imagem influencia diretamente a precisão do reconhecimento de texto.
+- A configuração do idioma (`lang='por'`) pode ser ajustada para melhorar a acurácia do reconhecimento em diferentes idiomas.
+- O uso de bibliotecas como `PIL` e `pytesseract` facilita a manipulação e análise de imagens.
+
+
+Este projeto pode ser expandido para incluir o processamento em lote, interface gráfica e integração com outros serviços de análise de texto.
